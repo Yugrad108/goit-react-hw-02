@@ -1,0 +1,28 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.img {
+  width: 100px;
+  height: 100px;
+  /* margin-bottom: 15px; */
+}
+.name {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 36px;
+  color: black;
+  margin: 0;
+}
+.online {
+  font-size: 20px;
+  margin: 0;
+  color: green;
+}
+.offline {
+  font-size: 20px;
+  margin: 0;
+  color: red;
+}
